@@ -1,6 +1,7 @@
 {
-    "name": "DelegateADA",
+    "name": "Delegate ADA",
     "description": "UK based Cardano stake pool",
     "ticker": "AD1",
-    "homepage": "https://farhadfarhadii.github.io/delegateada"
+    "homepage": "https://www.delegateada.com",
+    "extended": "https://extended-metadata.delegateada.com"
 }

@@ -1,0 +1,10 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "London, England"
+    },
+    "about": {
+        "server": "Digital Ocean kubernetes cluster hosted at LON1."
+    }
+}
