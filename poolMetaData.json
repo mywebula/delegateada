@@ -1,7 +1,7 @@
 {
     "name": "Delegate ADA",
     "description": "UK based Cardano stake pool",
-    "ticker": "AD1",
+    "ticker": "DA1",
     "homepage": "https://www.delegateada.com",
-    "extended": "https://extended-metadata.delegateada.com"
+    "extended": "https://raw.githubusercontent.com/mywebula/delegateada/master/extended-metadata.json"
 }
